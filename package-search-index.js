@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"universitysystem.courses"},{"l":"universitysystem.data"},{"l":"universitysystem.entity"},{"l":"universitysystem.interfaces"},{"l":"universitysystem.research"},{"l":"universitysystem.utills"}];updateSearchResults();
